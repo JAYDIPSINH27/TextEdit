@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Copy.png</file>
+        <file>cut.png</file>
+        <file>newfile.png</file>
+        <file>open.png</file>
+        <file>Paste.png</file>
+        <file>redo.png</file>
+        <file>save as.png</file>
+        <file>save.png</file>
+        <file>undo.png</file>
+        <file>info.png</file>
+        <file>ZoomOut.png</file>
+        <file>ZoomIn.png</file>
+        <file>Font-Book-icon.png</file>
+        <file>search-icon.png</file>
+        <file>Editing-Italic-icon.png</file>
+        <file>align-right.png</file>
+        <file>justify-text.png</file>
+        <file>left-alignment.png</file>
+        <file>align-center (1).png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>TE.png</file>
+    </qresource>
+</RCC>
